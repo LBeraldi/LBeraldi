@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Lucas Beraldi 😎  
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasb.oli/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.beraldii/)
 
 ![Lucas Beraldi GitHub stats](https://github-readme-stats.vercel.app/api?username=LBeraldi&show_icons=true&theme=dracula)
 
