@@ -3,14 +3,14 @@
 #### Olá, Eu sou o Lucas Beraldi 👋🏼
  Junior Developer  🙋🏽‍♂️
 
-###  Fale comigo!
+### 🎯 Fale comigo!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.beraldii/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-beraldi-b632a614b/)
 
-## MY GIT STATs
+## ⭐ GitHub Stats
 ![Lucas Beraldi GitHub stats](https://github-readme-stats.vercel.app/api?username=LBeraldi&show_icons=true&theme=dracula)
 
-## Tecnologias que uso 
+## 💻 Tecnologias que uso 
 
 <div style="display: inline_block"><br/>
 <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
