@@ -1,14 +1,18 @@
 # Sobre mim!
 
-#### Olá, Eu sou o Lucas Beraldi 👋🏼
- Junior Developer  🙋🏽‍♂️
+## Olá, Eu sou o Lucas Beraldi 👋🏼
+
+### Junior Developer  🙋🏽‍♂️
 
 ### 🎯 Fale comigo!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.beraldii/)
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-beraldi-b632a614b/)
 
 ## ⭐ GitHub Stats
-![Lucas Beraldi GitHub stats](https://github-readme-stats.vercel.app/api?username=LBeraldi&show_icons=true&theme=dracula)
+![Lucas Beraldi GitHub stats](https://github-readme-stats.vercel.app/api?username=LBeraldi&theme=radical&show_icons=true&hide_border=true&count_private=true)
+
+![Lucas Beraldi GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LBeraldi&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 ## 💻 Tecnologias que uso 
 
@@ -25,3 +29,4 @@
  <img aling="center" alt="PostgreSql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
  <img aling="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
+
