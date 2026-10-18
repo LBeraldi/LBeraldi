@@ -1,34 +1,95 @@
-# Sobre mim!
 
-## Olá, Eu sou o Lucas Beraldi 👋🏼
+<!--
+  README DE PERFIL DO GITHUB
+  1. Crie um repositório público com o MESMO nome do seu usuário GitHub.
+  2. Copie este conteúdo para README.md.
+  3. Troque os textos entre [colchetes] e confira os links.
+-->
 
-### Junior Developer  🙋🏽‍♂️
+<div align="center">
 
-### 🎯 Fale comigo!
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.beraldii/)
+<!-- Banner opcional: personalize o texto e as cores na URL ou remova esta imagem. -->
+<img
+  src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0f172a,50:312e81,100:0891b2&text=Olá,%20eu%20sou%20[SEU%20NOME]&fontColor=ffffff&fontSize=38&fontAlignY=48&desc=Desenvolvimento%20%7C%20Tecnologia%20%7C%20Aprendizado%20contínuo&descAlignY=68&descSize=15"
+  alt="Banner de apresentação"
+/>
+👋 Olá! Seja bem-vindo(a) ao meu GitHub
+[Sua profissão ou área de estudo] · [Sua cidade/país, opcional]
+Construindo projetos, aprendendo novas tecnologias e transformando ideias em código.
+<p>
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-SEU_USUARIO-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-beraldi-b632a614b/)
-
-## ⭐ GitHub Stats
- 
-![Lucas Beraldi GitHub stats](https://github-readme-stats.vercel.app/api?username=LBeraldi&theme=radical&show_icons=true&hide_border=true&count_private=true)
-
-
-## 💻 Tecnologias que uso 
-
-<div style="display: inline_block" align="center"><br/>
- 
-<img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img aling="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img aling="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img aling="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img aling="center" alt="NodeJs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-<img aling="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-<img aling="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img aling="center" alt="React" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"/>
-<img aling="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img aling="center" alt="PostgreSql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img aling="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
- 
 </div>
 
+🧑‍💻 Sobre mim
+- 🎯 Atualmente, estou focado em [sua área de interesse].
+- 🌱 Estudando [tecnologias ou assuntos que está aprendendo].
+- 🛠️ Desenvolvendo projetos com [suas principais tecnologias].
+- 💡 Gosto de aprender na prática e transformar problemas em soluções.
+- 🤝 Aberto a colaborar em projetos interessantes e aprender com a comunidade.
+⚙️ Tecnologias e ferramentas
+Substitua ou reorganize os itens para refletir apenas as tecnologias que você realmente utiliza.
+
+<div align="center">
+
+Linguagens
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css" alt="Linguagens de programação"/>
+
+Desenvolvimento e ferramentas
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,git,github,vscode,linux,docker" alt="Ferramentas de desenvolvimento"/>
+
+</div>
+
+🚀 Projetos em destaque
+<div align="center">
+
+<a href="https://github.com/SEU_USUARIO/REPOSITORIO_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPOSITORIO_1&theme=tokyonight&hide_border=true" alt="Projeto 1"/>
+</a>
+<a href="https://github.com/SEU_USUARIO/REPOSITORIO_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPOSITORIO_2&theme=tokyonight&hide_border=true" alt="Projeto 2"/>
+</a>
+
+</div>
+
+Alguns projetos que merecem destaque:
+- 📌 [Nome do projeto 1] — [Uma frase explicando o problema que resolve e as tecnologias usadas.]
+- 📌 [Nome do projeto 2] — [Uma frase explicando o objetivo e o que você aprendeu.]
+- 📌 [Nome do projeto 3] — [Uma frase explicando sua contribuição.]
+📊 Estatísticas do GitHub
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas"/>
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="Sequência de contribuições"/>
+
+</div>
+
+🎯 Objetivos
+- [ ] Aprofundar meus conhecimentos em [tecnologia ou área].
+- [ ] Criar projetos completos e bem documentados.
+- [ ] Contribuir com projetos open source.
+- [ ] Compartilhar aprendizados e evoluir como desenvolvedor(a).
+📫 Vamos conversar?
+Se você quiser trocar ideias, colaborar em um projeto ou conversar sobre tecnologia, entre em contato!
+<div align="center">
+
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">LinkedIn</a> ·
+<a href="https://github.com/SEU_USUARIO">GitHub</a> ·
+<a href="mailto:SEU_EMAIL">E-mail</a>
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=0891b2&label=Visualizações%20do%20perfil" alt="Visualizações do perfil"/>
+
+Obrigado pela visita! ⭐
+</div>
