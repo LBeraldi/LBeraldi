@@ -20,8 +20,3 @@ Disponível para vagas full stack e freelas · [LinkedIn](https://www.linkedin.c
   `React Native` `Expo` `Node.js` `TypeScript` `PostGIS`
 - **[SwOPy](https://github.com/LBeraldi/Otimizacao-Gamero)** — otimização de redes coletoras de esgoto por algoritmo genético, reproduzindo uma dissertação da UFMS.
   `Python` `NumPy` `pandas` `Optuna`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,fastapi,postgres,docker,vercel&theme=dark">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,fastapi,postgres,docker,vercel&theme=light" alt="TypeScript, React, Next.js, Node.js, Python, FastAPI, PostgreSQL, Docker e Vercel" height="40">
-</picture>
