@@ -1,39 +1,27 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-escuro.svg">
-  <img src="assets/header-claro.svg" alt="Lucas Beraldi, desenvolvedor web" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img src="./assets/header-light.svg" alt="Lucas Beraldi — desenvolvedor full stack · TypeScript, React e Python" width="100%">
 </picture>
 
-Sou desenvolvedor web e gosto de levar uma ideia do banco de dados até a interface. Trabalho com **Python** e **TypeScript**, usando **React**, **Next.js** ou **Vue** no front-end. Meus destaques hoje são o **Flight Watch**, que acompanha preços de passagens aéreas, e o **SwOPy**, que usa um algoritmo genético para dimensionar redes de esgoto pelo menor custo.
+Construo e mantenho, sozinho, os sistemas do **CESAM – Centro de Estudo em Saneamento Ambiental**, do código ao deploy, com agentes de IA, testes e CI.
+Disponível para vagas full stack e freelas · [LinkedIn](https://www.linkedin.com/in/lucas-beraldi-b632a614b/)
 
-## Contribuições
+<p>
+  <a href="https://observatorio-saneamento-ms.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/observatorio-dark.svg"><img src="./assets/observatorio-light.svg" alt="Observatório de Saneamento — indicadores de saneamento de MS" width="32%"></picture></a>
+  <a href="https://portal-de-residuos.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/residuos-dark.svg"><img src="./assets/residuos-light.svg" alt="Portal de Resíduos — gestão de resíduos sólidos em MS" width="32%"></picture></a>
+  <a href="https://github.com/FlightWatchApp/FlightWatch"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/flightwatch-dark.svg"><img src="./assets/flightwatch-light.svg" alt="Flight Watch — monitor de preços de passagens" width="32%"></picture></a>
+</p>
+
+## Projetos pessoais
+
+- **[AvaliacaoLLM](https://github.com/LBeraldi/AvaliacaoLLm)** — avaliação reproduzível de respostas de LLMs de vários provedores, com A/B cego e juiz LLM. Publicado com [DOI no Zenodo](https://doi.org/10.5281/zenodo.21980030).
+  `Python` `Inspect AI` `pytest` `CI`
+- **[GeoFito](https://github.com/LBeraldi/FitoGeo)** — app de campo que identifica plantas por foto e mostra bioma, município e legislação ambiental.
+  `React Native` `Expo` `Node.js` `TypeScript` `PostGIS`
+- **[SwOPy](https://github.com/LBeraldi/Otimizacao-Gamero)** — otimização de redes coletoras de esgoto por algoritmo genético, reproduzindo uma dissertação da UFMS.
+  `Python` `NumPy` `pandas` `Optuna`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LBeraldi/LBeraldi/output/contribuicoes-escuro.svg">
-  <img src="https://raw.githubusercontent.com/LBeraldi/LBeraldi/output/contribuicoes-claro.svg" alt="Gráfico de contribuições de LBeraldi no último ano" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,fastapi,postgres,docker,vercel&theme=dark">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,fastapi,postgres,docker,vercel&theme=light" alt="TypeScript, React, Next.js, Node.js, Python, FastAPI, PostgreSQL, Docker e Vercel" height="40">
 </picture>
-
-## Projetos
-
-<a href="https://github.com/LBeraldi/Otimizacao-Gamero">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/projeto-swopy-escuro.svg">
-    <img src="assets/projeto-swopy-claro.svg" alt="SwOPy: otimização de redes de esgoto com algoritmo genético" width="49%">
-  </picture>
-</a>
-<a href="https://github.com/FlightWatchApp/FlightWatch">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/projeto-flight-watch-escuro.svg">
-    <img src="assets/projeto-flight-watch-claro.svg" alt="Flight Watch: monitoramento de preços de passagens aéreas" width="49%">
-  </picture>
-</a>
-
-## Stack
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-escuro.svg">
-  <img src="assets/stack-claro.svg" alt="Python, Flask, NestJS, Java, TypeScript, JavaScript, React, Next.js, Vue, Vite, PostgreSQL, Redis, SQLite, Docker e Git" width="100%">
-</picture>
-
-## Contato
-
-[LinkedIn](https://www.linkedin.com/in/lucas-beraldi-b632a614b) · [Instagram](https://www.instagram.com/lucas.beraldii)
