@@ -1,10 +1,15 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img src="./assets/header-light.svg" alt="Lucas Beraldi — desenvolvedor full stack · TypeScript, React e Python" width="100%">
-</picture>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg"> <img src="./assets/header-light.svg" alt="Lucas Beraldi — desenvolvedor full stack · web, mobile, back-end e infraestrutura" width="100%"> </picture>
 
-Construo e mantenho, sozinho, os sistemas do **CESAM – Centro de Estudo em Saneamento Ambiental**, do código ao deploy, com agentes de IA, testes e CI.
-Disponível para vagas full stack e freelas · [LinkedIn](https://www.linkedin.com/in/lucas-beraldi-b632a614b/)
+**Desenvolvedor Full Stack** com atuação em aplicações web, mobile, back-end, bancos de dados e infraestrutura, trabalhando do desenvolvimento à implantação de soluções em produção.
+
+No **CESAM – Centro de Estudos em Saneamento Ambiental**, Desenvolvo plataformas públicas voltadas a dados de saneamento e resíduos sólidos de Mato Grosso do Sul.
+
+Também desenvolvo projetos envolvendo **inteligência artificial, geotecnologias, otimização e automação**.
+
+**Aberto a oportunidades Full Stack, projetos freelance e colaborações em tecnologia.**
+
+[LinkedIn](https://www.linkedin.com/in/lucas-beraldi-b632a614b/) · [CESAM no GitHub](https://github.com/CESAM-LASANGE) · [CESAM no GitHub](https://github.com/FlightWatchApp/FlightWatch)
+
 
 <p>
   <a href="https://observatorio-saneamento-ms.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/observatorio-dark.svg"><img src="./assets/observatorio-light.svg" alt="Observatório de Saneamento — indicadores de saneamento de MS" width="32%"></picture></a>
