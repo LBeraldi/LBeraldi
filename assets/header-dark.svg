@@ -17,6 +17,6 @@
 <path class="w1" d="M0 143 Q56.2 138.0 112.5 143 Q168.8 148.0 225.0 143 Q281.2 138.0 337.5 143 Q393.8 148.0 450.0 143 Q506.2 138.0 562.5 143 Q618.8 148.0 675.0 143 Q731.2 138.0 787.5 143 Q843.8 148.0 900.0 143 Q956.2 138.0 1012.5 143 Q1068.8 148.0 1125.0 143 Q1181.2 138.0 1237.5 143 Q1293.8 148.0 1350.0 143 Q1406.2 138.0 1462.5 143 Q1518.8 148.0 1575.0 143 Q1631.2 138.0 1687.5 143 Q1743.8 148.0 1800.0 143 Q1856.2 138.0 1912.5 143 Q1968.8 148.0 2025.0 143" fill="none" stroke="#3fb265" stroke-opacity="0.6" stroke-width="1.6" stroke-linecap="round"/>
 <path class="w2" d="M0 154 Q112.5 150.5 225.0 154 Q337.5 157.5 450.0 154 Q562.5 150.5 675.0 154 Q787.5 157.5 900.0 154 Q1012.5 150.5 1125.0 154 Q1237.5 157.5 1350.0 154 Q1462.5 150.5 1575.0 154 Q1687.5 157.5 1800.0 154 Q1912.5 150.5 2025.0 154 Q2137.5 157.5 2250.0 154" fill="none" stroke="#9ec2f5" stroke-opacity="0.45" stroke-width="1.2" stroke-linecap="round"/></g>
 <text class="name" x="20" y="50">Lucas Beraldi</text>
-<text class="role" x="22" y="82">Desenvolvedor full stack · TypeScript, React e Python</text>
-<text class="focus" x="22" y="108">saneamento · meio ambiente · IA aplicada<tspan class="cursor">_</tspan></text>
+<text class="role" x="22" y="82">Desenvolvedor full stack · web, mobile, back-end e infraestrutura</text>
+<text class="focus" x="22" y="108">do código ao deploy · IA aplicada<tspan class="cursor">_</tspan></text>
 </svg>
